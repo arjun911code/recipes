@@ -14,6 +14,9 @@ categories: sugary breakfast
 - Nanner
 - better with gouda
 - and add tomatoes and a movie and you're set
+- add cheese
+- add eggs
+- add fish
 
 ## Directions
 
